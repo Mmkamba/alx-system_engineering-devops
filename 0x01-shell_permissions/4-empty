@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "empty" > hello
+echo "empty" > hello.txt
