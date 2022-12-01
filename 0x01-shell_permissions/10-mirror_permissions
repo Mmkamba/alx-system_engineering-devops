@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "empty" > hello olleh
+chmod --reference*olleh hello
