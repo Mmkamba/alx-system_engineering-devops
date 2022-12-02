@@ -1,2 +1,2 @@
 #!/bin/bash
-play StarWars IV
+mplayer<StarWars IV>.mp4
